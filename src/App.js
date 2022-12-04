@@ -28,8 +28,6 @@ import {awsconfig} from './aws-exports'
 import { Authenticator } from '@aws-amplify/ui-react';
 import '@aws-amplify/ui-react/styles.css';
 
-Amplify.configure(awsconfig)
-
 
 function App() {
   return (

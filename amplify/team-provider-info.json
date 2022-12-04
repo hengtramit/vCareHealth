@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vcarehealth-dev-150710-authRole",
+      "UnauthRoleArn": "arn:aws:iam::534956384856:role/amplify-vcarehealth-dev-150710-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::534956384856:role/amplify-vcarehealth-dev-150710-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-vcarehealth-dev-150710-deployment",
+      "UnauthRoleName": "amplify-vcarehealth-dev-150710-unauthRole",
+      "StackName": "amplify-vcarehealth-dev-150710",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:534956384856:stack/amplify-vcarehealth-dev-150710/a87e7dd0-73aa-11ed-b866-067e6d233cc5",
+      "AmplifyAppId": "d2ovkjg0e7v17h"
+    },
+    "categories": {
+      "auth": {
+        "vcarehealth7b68654c": {}
+      }
+    }
+  }
+}
